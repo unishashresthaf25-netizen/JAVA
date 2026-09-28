@@ -1,0 +1,4 @@
+# Copy this file to config.properties (same folder) and adjust as needed.
+# config.properties is excluded from git via .gitignore so no local paths
+# or credentials are committed.
+db.file=hospital.db
